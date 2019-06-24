@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "@types/highcharts": "^4.2.47",
-    "highcharts": "git://github.com/reshmajagan/highcharts.git#highstock_update_button_states_method_tweaked"
+    "highcharts": "github:reshmajagan/highcharts#commented_code_in_rangeselector"
   }
 }
