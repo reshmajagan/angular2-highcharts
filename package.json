@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "@types/highcharts": "^4.2.47",
-    "highcharts": "github:reshmajagan/highcharts#commented_code_in_rangeselector"
+    "highcharts": "github:reshmajagan/highcharts#stock_changes_in_v5.0.6"
   }
 }
