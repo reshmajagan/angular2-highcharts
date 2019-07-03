@@ -47,8 +47,5 @@
     "@types/es6-shim": "^0.31.32",
     "@types/jasmine": "^2.5.42"
   },
-  "dependencies": {
-    "@types/highcharts": "^4.2.47",
-    "highcharts": "github:reshmajagan/highcharts-dist#tweaked_branch"
-  }
+  "dependencies": {}
 }
