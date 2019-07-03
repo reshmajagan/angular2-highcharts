@@ -48,7 +48,5 @@
     "@types/jasmine": "^2.5.42"
   },
   "dependencies": {
-    "@types/highcharts": "^4.2.47",
-    "highcharts": "github:reshmajagan/highcharts"
   }
 }
