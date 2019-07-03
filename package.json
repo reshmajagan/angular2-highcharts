@@ -47,6 +47,5 @@
     "@types/es6-shim": "^0.31.32",
     "@types/jasmine": "^2.5.42"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
